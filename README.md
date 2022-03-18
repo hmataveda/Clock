@@ -1,3 +1,3 @@
-Clock
+Ticking Clock
 
 Github link : https://hmataveda.github.io/Clock/
